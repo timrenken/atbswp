@@ -1,0 +1,10 @@
+1. The operators are *, /, and +. The values are 'hello', -88.8, and 5.
+2. The variable is spam without the single quotes. The string is 'spam' with the single quotes.
+3. Three data types of Python are integers, floating-points, and strings.
+4. Expressions consist of values and operators. They can always reduce down to a single value.
+5. An expression can always reduce down to a single value, where a statement stores a value.
+6. The bacon variable contains 21.
+7. Both expressions reduce down to 'spamspamspam'.
+8. 100 can not be a variable, because variables can not begin with a number.
+9. The three functions are int(), str(), float().
+10. Expressions can only contain strings or integers, not both. We can fix this by using 'I have eaten ' + str(99) + ' burritos.'
