@@ -1,0 +1,30 @@
+1. The two values of the Boolean data type are True and False. These must begin with a capital T or F.
+2. The three Boolean operators are and, or, and not.
+3. True and True is True
+True and False is False
+False and False is False
+False and False is False
+True or True is True
+True or False is True
+False or True is True
+False or False is False
+not True is False
+not False is True
+4. False
+False
+True
+False
+False
+True
+5. The six comparison operations are ==, !=, <, <=, >, and >=.
+6. The equal to operation contains 2 equal signs (==) and the assignment operation only contains 1 equal sign (=).
+7. Conditions always evaluates down to a Boolean value, True or False.
+8. The three blocks are everything inside of the if statement and the lines print('bacon') and print('ham')
+9. See practice_question_9.py
+10. CTRL-C
+11. A "break" statement immediately exits the while loop's clause. A "continue" statement immediately jumps back to the
+start of the loop and reevaluates the loop's condition.
+12. They all do the same thing. The range(10) call counts up from 0 to 10 not including 10. The range(0, 10) calls the
+count to begin at 0 then go to 10. The range(0, 10, 1) call tells the code to increase the variable by 1.
+13. See practice_question_13.py.
+14. You would use spam.bacon().
