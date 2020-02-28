@@ -1,0 +1,16 @@
+1. Having functions allows you to not have to duplicate code.
+2. When the function is called the function executes.
+3. The define(def) statement creations a function.
+4. A function requires the def statement that defines the code that will run, when the statement is called without the
+def statement.
+5. There is only one global scope. Local scopes are only created within a function.
+6. The local scope is destroyed when the function returns.
+7. A return value is the value that the function evaluates to. Yes, the return value can be part of an expression.
+8. If nothing is to be returned, None is the return value.
+9. You will include global with the variable within the function.
+10. The data type of None is NoneType.
+11. It imports the module of areallyourpetsnamederic.
+12. spam.bacon() can be called.
+13. Use the try clause.
+14. The code that needs to try to run will go into the try clause. The exceptions and what to do with those exceptions
+will go in the except clause.
