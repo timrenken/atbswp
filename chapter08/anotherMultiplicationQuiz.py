@@ -19,6 +19,7 @@ for questionNumber in range(numberOfQuestions):
                 if int(answer) == num1*num2:
                     print('Correct!')
                     correctAnswers += 1
+                    time.sleep(1)
                     pass
                 else:
                     print('Incorrect, try again.')
