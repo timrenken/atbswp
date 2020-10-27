@@ -1,2 +1,4 @@
 *.txt
 *pycache*
+chapter12/xkcd
+test*
